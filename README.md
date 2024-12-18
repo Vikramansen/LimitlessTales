@@ -1,6 +1,5 @@
 # Limitless Tales
 
-![Flow Chart](https://github.com/Vikramansen/LimitlessTales---A-Fine-tuned-GPT-2-Model-for-Story-Generation/blob/main/Flow_Chart.png)
 
 1. First preprocess the data
 Use the notebook book_cleaning.ipynb
